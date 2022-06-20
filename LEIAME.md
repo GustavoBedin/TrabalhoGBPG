@@ -3,7 +3,6 @@ Esse programa deixa o usuário escolher de uma selecao de 10 ótimos filtros e 5
 # Como executar
 Alguns imports são necessários para que o programa funcione, a seguir uma imagem com eles.\
 ![Imports](imagens%20md/imports.png)\
-Apenas altere o local onde a foto dos stickers está armazenada no seu computador nas linhas: **163, 165, 167, 169, 171**.\
 Caso a câmera esteja dando erro ao abrir provavelmente será necessario mudar a linha **178** de (0) para (1) ou algo parecido.\
 Após realizar essas mudanças apenas execute o arquivo e seja feliz!
 
@@ -61,3 +60,6 @@ Mostra a imagem ou o vídeo da camera com o filtro selecionado e os stickers col
 # Salvar imagem e saida do programa
 Para salvar, deve clicar duas vezes com o botao direito do mouse na imagem, isso resultara em uma nova imagem no diretório do programa com o nome sendo um numero aleatório entre 1 e 3000.\
 Para sair do programa a tecla '**q**' deve ser pressionada.
+
+# Contato
+Caso tenha alguma duvida favor mandar um email para : **odriozolagustavo@gmail.com**.
